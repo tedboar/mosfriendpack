@@ -1,2 +1,2 @@
 # mosfriendpack
-蚊友会所用的材质包. Resourcepack for Mosfriends.
+蚊友会服务器所用的Minecraft材质包. Minecraft Resourcepack for Mosfriends Server.
